@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 /**
  * ECSHOP 银行汇款（转帐）插件
@@ -72,13 +72,14 @@ class bank
      *
      * @return void
      */
-    function bank()
-    {
-    }
 
     function __construct()
     {
         $this->bank();
+    }
+
+    function bank()
+    {
     }
 
     /**

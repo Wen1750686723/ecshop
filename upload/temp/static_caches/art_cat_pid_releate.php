@@ -2,6 +2,19 @@
 $data = array (
   0 => 
   array (
+    'cat_id' => '11',
+    'cat_name' => '手机促销',
+    'cat_type' => '1',
+    'keywords' => '',
+    'cat_desc' => '',
+    'sort_order' => '50',
+    'show_in_nav' => '0',
+    'parent_id' => '0',
+    'has_children' => '0',
+    'aricle_num' => '3',
+  ),
+  1 => 
+  array (
     'cat_id' => '1',
     'cat_name' => '系统分类',
     'cat_type' => '2',
@@ -13,7 +26,7 @@ $data = array (
     'has_children' => '2',
     'aricle_num' => '0',
   ),
-  1 => 
+  2 => 
   array (
     'cat_id' => '12',
     'cat_name' => '站内快讯',
@@ -26,7 +39,7 @@ $data = array (
     'has_children' => '0',
     'aricle_num' => '4',
   ),
-  2 => 
+  3 => 
   array (
     'cat_id' => '4',
     'cat_name' => '3G资讯',
@@ -38,19 +51,6 @@ $data = array (
     'parent_id' => '0',
     'has_children' => '0',
     'aricle_num' => '4',
-  ),
-  3 => 
-  array (
-    'cat_id' => '11',
-    'cat_name' => '手机促销',
-    'cat_type' => '1',
-    'keywords' => '',
-    'cat_desc' => '',
-    'sort_order' => '50',
-    'show_in_nav' => '0',
-    'parent_id' => '0',
-    'has_children' => '0',
-    'aricle_num' => '3',
   ),
   4 => 
   array (
@@ -80,6 +80,19 @@ $data = array (
   ),
   6 => 
   array (
+    'cat_id' => '10',
+    'cat_name' => '会员中心',
+    'cat_type' => '5',
+    'keywords' => '',
+    'cat_desc' => '',
+    'sort_order' => '50',
+    'show_in_nav' => '0',
+    'parent_id' => '3',
+    'has_children' => '0',
+    'aricle_num' => '3',
+  ),
+  7 => 
+  array (
     'cat_id' => '5',
     'cat_name' => '新手上路 ',
     'cat_type' => '5',
@@ -91,7 +104,7 @@ $data = array (
     'has_children' => '0',
     'aricle_num' => '3',
   ),
-  7 => 
+  8 => 
   array (
     'cat_id' => '6',
     'cat_name' => '手机常识 ',
@@ -104,7 +117,7 @@ $data = array (
     'has_children' => '0',
     'aricle_num' => '3',
   ),
-  8 => 
+  9 => 
   array (
     'cat_id' => '7',
     'cat_name' => '配送与支付 ',
@@ -117,7 +130,7 @@ $data = array (
     'has_children' => '0',
     'aricle_num' => '3',
   ),
-  9 => 
+  10 => 
   array (
     'cat_id' => '8',
     'cat_name' => '服务保证 ',
@@ -130,26 +143,13 @@ $data = array (
     'has_children' => '0',
     'aricle_num' => '3',
   ),
-  10 => 
+  11 => 
   array (
     'cat_id' => '9',
     'cat_name' => '联系我们 ',
     'cat_type' => '5',
     'keywords' => '',
     'cat_desc' => '联系我们 ',
-    'sort_order' => '50',
-    'show_in_nav' => '0',
-    'parent_id' => '3',
-    'has_children' => '0',
-    'aricle_num' => '3',
-  ),
-  11 => 
-  array (
-    'cat_id' => '10',
-    'cat_name' => '会员中心',
-    'cat_type' => '5',
-    'keywords' => '',
-    'cat_desc' => '',
     'sort_order' => '50',
     'show_in_nav' => '0',
     'parent_id' => '3',
